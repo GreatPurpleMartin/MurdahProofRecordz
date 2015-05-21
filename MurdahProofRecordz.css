@@ -1,3 +1,12 @@
-h1 {
-  color: red;
+ul {
+  display: block;
+  width: 60px;
+}
+li {
+  display:inline;
+  float: left;
+}
+a {
+  display: block;
+  width: 60px;
 }
