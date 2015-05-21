@@ -1,11 +1,11 @@
 ul {
   display: block;
-  width: 60px;
+  width: 600px;
 }
 li {
   float: left;
 }
 a {
-    display: block;
-    width: 60px;
+  display: block;
+  width: 600px;
 }
